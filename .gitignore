@@ -430,3 +430,4 @@ FodyWeavers.xsd
 # Compiled executable
 *.exe
 PassParamsToBase
+*_launcher
