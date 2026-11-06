@@ -1,0 +1,4 @@
+#!/bin/sh
+
+mcs -out:PassParamsToBase MainProgram.cs \
+Person.cs Human.cs
